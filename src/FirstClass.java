@@ -25,6 +25,18 @@ public class FirstClass
 
         System.out.println("La edad2 és " + edad2);
 
+        System.out.println("-----------------");
+
+
+        int a = 5;
+        int b;
+        b = 7;
+
+        int c = b + a;
+
+        c++;
+
+        System.out.println(c);
 
     }
 }
